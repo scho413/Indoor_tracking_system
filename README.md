@@ -1,4 +1,4 @@
-# COMPSYS-704-Assignment-2
+# Indoor tracking system
 This project is a step detection-based indoor tracking system using the LSM303AGR sensor.
 
 ## Prerequisite
